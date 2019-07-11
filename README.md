@@ -27,5 +27,5 @@ sh run.sh
 ```
 
 
-Acessar: http://localhost:8080/
+Acessar: http://localhost:8080/movie.html
 
